@@ -1,0 +1,7 @@
+<Client1>: - ONLINE
+<Client2>: - ONLINE
+<Client1>: Hi!
+<Client2>: Hello
+<Client1>: - OFFLINE
+<Client2>: - OFFLINE
+
