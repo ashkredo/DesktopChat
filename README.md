@@ -34,7 +34,7 @@ User commands:
  ![alt text](https://i.ibb.co/WW3dhKB/13.png)
  * /admin - admin menu:
  
- ![alt text](https://i.ibb.co/MSyNjPX/14.png)https://i.ibb.co/m8HzQk2/15.png
+ ![alt text](https://i.ibb.co/MSyNjPX/14.png)
  ![alt text](https://i.ibb.co/m8HzQk2/15.png)
  
 Admin commands:
